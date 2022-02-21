@@ -1,14 +1,17 @@
 #include <iostream>
+#include <map>
 
 using namespace std;
-
-int occurrences_string(char* str, int n)
+map<char, int> occurrences_string(char* str, size_t n)
 {
-	int* occurrences = new int[n];
-	for (size_t i = 0; i < n; i++)
+	map<char, int> mp;
+
+	for (size_t i = 0; i < n - 1; i++)
 	{
-		cout << str[i] << endl;
+		mp[str[i]] += 1;
 	}
+
+	return mp;
 }
 
 void print_arr(int* arr, int n)
@@ -20,11 +23,19 @@ void print_arr(int* arr, int n)
 	cout << endl;
 }
 
+void print_map(map<char, int> mp)
+{
+	for (auto const& x : mp)
+	{
+		cout << x.first << ": " << x.second << endl;
+	}
+}
+
 int main()
 {
-	const int n = 6;
+	const size_t n = 6;
 	char str[n] = { "HELLO" };
 
-	int occurrences = occurrences_string(str, n);
-	print_arr(&occurrences, sizeof(occurrences));
+	 map<char, int> occurrences = occurrences_string(str, n);
+	 print_map(occurrences);
 }

@@ -1,4 +1,1 @@
-﻿  Main.cpp
-C:\Users\jsfoa\Documents\Visual Studio 2022\Solutions\Small_Assignments\Guessing_Game\Main.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\jsfoa\Documents\Visual Studio 2022\Solutions\Small_Assignments\Guessing_Game\Main.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Guessing_Game.vcxproj -> C:\Users\jsfoa\Documents\Visual Studio 2022\Solutions\Small_Assignments\x64\Debug\Guessing_Game.exe
+﻿  Guessing_Game.vcxproj -> C:\Users\joao.freire\Documents\GitHub\Cpp_Assignments\Small_Assignments\x64\Debug\Guessing_Game.exe
