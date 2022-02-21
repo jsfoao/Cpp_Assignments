@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\jsfoa\Documents\Visual Studio 2022\Solutions\Small_Assignments\Linear_Search\Source.cpp(34,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jsfoa\Documents\Visual Studio 2022\Solutions\Small_Assignments\Linear_Search\Source.cpp(52,12): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Linear_Search.vcxproj -> C:\Users\jsfoa\Documents\Visual Studio 2022\Solutions\Small_Assignments\x64\Debug\Linear_Search.exe

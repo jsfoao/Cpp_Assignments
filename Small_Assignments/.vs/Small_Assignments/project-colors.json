@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27a1cd38-ffc8-46db-bf5c-7f9e6f6e6d3b": {
+      "ProjectGuid": "27a1cd38-ffc8-46db-bf5c-7f9e6f6e6d3b",
+      "DisplayName": "Abs_Difference",
+      "ColorIndex": 0
+    },
+    "56c383d6-ffa1-43e7-97ce-8afeaf7d46a7": {
+      "ProjectGuid": "56c383d6-ffa1-43e7-97ce-8afeaf7d46a7",
+      "DisplayName": "Celsius_To_Fahrenheit",
+      "ColorIndex": 1
+    },
+    "562ab2d9-d6ea-47e5-ba89-276d3e594163": {
+      "ProjectGuid": "562ab2d9-d6ea-47e5-ba89-276d3e594163",
+      "DisplayName": "Celius_To_Fahrenheit",
+      "ColorIndex": 2
+    },
+    "d96fd06d-01f3-4a85-9825-6369c2c7f9b7": {
+      "ProjectGuid": "d96fd06d-01f3-4a85-9825-6369c2c7f9b7",
+      "DisplayName": "Even_Or_Odd",
+      "ColorIndex": 3
+    },
+    "e8482eb7-8e38-4aa1-ae28-fb9c38d591cf": {
+      "ProjectGuid": "e8482eb7-8e38-4aa1-ae28-fb9c38d591cf",
+      "DisplayName": "Last_Digit_Number",
+      "ColorIndex": 4
+    },
+    "ea244a5d-2a78-4dcd-ab52-1ecdfd41128f": {
+      "ProjectGuid": "ea244a5d-2a78-4dcd-ab52-1ecdfd41128f",
+      "DisplayName": "Swap",
+      "ColorIndex": 5
+    },
+    "26e1a046-248f-4562-9255-757b5055cfde": {
+      "ProjectGuid": "26e1a046-248f-4562-9255-757b5055cfde",
+      "DisplayName": "Guessing_Game",
+      "ColorIndex": 6
+    },
+    "d3ec313d-1c02-4b9c-8e2f-1bb1a8975476": {
+      "ProjectGuid": "d3ec313d-1c02-4b9c-8e2f-1bb1a8975476",
+      "DisplayName": "Arithmetic_Progression",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b3f76da3-49d2-4db8-9ad4-37542f52c51e": {
+      "ProjectGuid": "b3f76da3-49d2-4db8-9ad4-37542f52c51e",
+      "DisplayName": "Reverse_Collection",
+      "ColorIndex": 8
+    },
+    "25432811-7f35-405d-b7f3-d2ac7528d180": {
+      "ProjectGuid": "25432811-7f35-405d-b7f3-d2ac7528d180",
+      "DisplayName": "Linear_Search",
+      "ColorIndex": 9
+    },
+    "60c91403-c638-4b79-92a9-deee1298aa50": {
+      "ProjectGuid": "60c91403-c638-4b79-92a9-deee1298aa50",
+      "DisplayName": "Palindrome",
+      "ColorIndex": 10
+    },
+    "b52b2486-a462-42ea-9265-a9849824efb2": {
+      "ProjectGuid": "b52b2486-a462-42ea-9265-a9849824efb2",
+      "DisplayName": "Nth_Bit",
+      "ColorIndex": 11
+    },
+    "3bc9dbdb-8993-47d3-a64c-41a32ce38e65": {
+      "ProjectGuid": "3bc9dbdb-8993-47d3-a64c-41a32ce38e65",
+      "DisplayName": "Swap_Bitwise",
+      "ColorIndex": 12
+    },
+    "80d03861-751c-4dd9-9962-cc2e79458a89": {
+      "ProjectGuid": "80d03861-751c-4dd9-9962-cc2e79458a89",
+      "DisplayName": "Min_Max_Sum_Average",
+      "ColorIndex": 13
+    },
+    "be864229-66d4-4798-a6c2-f9ec2bb9a8ef": {
+      "ProjectGuid": "be864229-66d4-4798-a6c2-f9ec2bb9a8ef",
+      "DisplayName": "Construct_Order",
+      "ColorIndex": 14
+    },
+    "7f69a72e-5c21-4dfe-82fa-b5a3cf76853e": {
+      "ProjectGuid": "7f69a72e-5c21-4dfe-82fa-b5a3cf76853e",
+      "DisplayName": "Occurrences_Character",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

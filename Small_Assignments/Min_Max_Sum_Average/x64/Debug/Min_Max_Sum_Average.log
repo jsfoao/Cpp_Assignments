@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\jsfoa\Documents\Visual Studio 2022\Solutions\Small_Assignments\Min_Max_Sum_Average\Source.cpp(43,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Min_Max_Sum_Average.vcxproj -> C:\Users\jsfoa\Documents\Visual Studio 2022\Solutions\Small_Assignments\x64\Debug\Min_Max_Sum_Average.exe
