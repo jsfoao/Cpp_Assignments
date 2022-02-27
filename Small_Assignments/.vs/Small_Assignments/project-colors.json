@@ -85,7 +85,42 @@
       "ProjectGuid": "7f69a72e-5c21-4dfe-82fa-b5a3cf76853e",
       "DisplayName": "Occurrences_Character",
       "ColorIndex": 15
+    },
+    "b8bb293d-7df0-4059-a6e0-7f977e8e8ab2": {
+      "ProjectGuid": "b8bb293d-7df0-4059-a6e0-7f977e8e8ab2",
+      "DisplayName": "Linear_Search_Word",
+      "ColorIndex": 0
+    },
+    "14f44e19-7b86-4631-a2b8-b6c7fa4ef8b1": {
+      "ProjectGuid": "14f44e19-7b86-4631-a2b8-b6c7fa4ef8b1",
+      "DisplayName": "Swap_2.0",
+      "ColorIndex": 1
+    },
+    "6b94806a-1e85-422a-bb32-493c236d2ed3": {
+      "ProjectGuid": "6b94806a-1e85-422a-bb32-493c236d2ed3",
+      "DisplayName": "Contains_Number",
+      "ColorIndex": 2
+    },
+    "57f8d30e-d84f-4872-8b4f-c63a7dc5ef81": {
+      "ProjectGuid": "57f8d30e-d84f-4872-8b4f-c63a7dc5ef81",
+      "DisplayName": "Lucky_Number",
+      "ColorIndex": 3
+    },
+    "8affd3a4-ab1b-4fdd-84f2-b6592314d07b": {
+      "ProjectGuid": "8affd3a4-ab1b-4fdd-84f2-b6592314d07b",
+      "DisplayName": "Permutations",
+      "ColorIndex": 4
+    },
+    "e6cd2af0-1fa4-4bdb-92b8-e6a75a213b49": {
+      "ProjectGuid": "e6cd2af0-1fa4-4bdb-92b8-e6a75a213b49",
+      "DisplayName": "Compress_String",
+      "ColorIndex": 5
+    },
+    "3e8cd1be-53dd-43c8-a947-1ee0111fbf43": {
+      "ProjectGuid": "3e8cd1be-53dd-43c8-a947-1ee0111fbf43",
+      "DisplayName": "Find_Largest_Number",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 7
 }
